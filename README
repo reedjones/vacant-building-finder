@@ -1,3 +1,17 @@
+## todo 
+- Modify for Oakland, Ca data 
+- - 311 requests SODA API: https://data.oaklandca.gov/resource/6mcd-dn3t.json
+
+
+
+other notes
+
+https://data.oaklandca.gov/Infrastructure/Homeless-Encampment-service-requests-received-by-t/6mcd-dn3t
+
+https://data.oaklandca.gov/Infrastructure/Service-requests-received-by-the-Oakland-Call-Cent/quth-gb8e/data_preview
+https://data.oaklandca.gov/Infrastructure/Service-requests-received-by-the-Oakland-Call-Cent/quth-gb8e/explore/query/SELECT%0A%20%20%60requestid%60%2C%0A%20%20%60datetimeinit%60%2C%0A%20%20%60source%60%2C%0A%20%20%60description%60%2C%0A%20%20%60reqcategory%60%2C%0A%20%20%60reqaddress%60%2C%0A%20%20%60status%60%2C%0A%20%20%60referredto%60%2C%0A%20%20%60datetimeclosed%60%2C%0A%20%20%60srx%60%2C%0A%20%20%60sry%60%2C%0A%20%20%60councildistrict%60%2C%0A%20%20%60beat%60%2C%0A%20%20%60probaddress%60%2C%0A%20%20%60city%60%2C%0A%20%20%60state%60%2C%0A%20%20%60zipcode%60%2C%0A%20%20%60%3A%40computed_region_w23w_jfhw%60/page/filter
+
+
 What is this?
 The Vacant and Abandoned Building Finder is a tool for helping people and organizations find buildings in Chicago that are not in use and potentially hazardous to the neighborhood around them.
 
@@ -32,7 +46,7 @@ The building data comes from Chicago's 311 reporting service which can be found 
 The demographics data comes from a report by the Greater Chicago Food Depository published on September 21st, 2011. This report can be found here: http://www.chicagosfoodbank.org/site/PageServer?pagename=hunger_research
 
 Were there problems with the data?
-There were! The 311 data from the City is published in a very raw format. A lot of fields were not normalized (had multiple values that meant the same thing), and an entire column (‘Is this building dangerous or hazardous?’) was completely blank for all rows. I compensated for this with a PHP script that pulls the data from the City’s Data Portal and cleans up specific columns based on keywords I found that were common in meaning. For data fields that were blank, I flagged them as ‘unknown’.
+There were! The 311 data from the City is published in a very raw format. A lot of fields were not normalized (had multiple values that meant the same thing), and an entire column (â€˜Is this building dangerous or hazardous?â€™) was completely blank for all rows. I compensated for this with a PHP script that pulls the data from the Cityâ€™s Data Portal and cleans up specific columns based on keywords I found that were common in meaning. For data fields that were blank, I flagged them as â€˜unknownâ€™.
 
 The 311 Service Requests - Vacant and Abandoned Buildings Reported dataset has been published since January 2011, and I hope the City plans on revisiting it and cleaning up the data soon.
 
