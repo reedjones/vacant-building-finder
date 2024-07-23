@@ -29,14 +29,25 @@ surplus properties - https://alamedacountyca.gov/cda/spa/
 
 # large resource list with contacts + info https://www.achhd.org/documents/ACHHD-Resource-List.pdf
 
-# more data <a href="/more-notes.txt">here</a>
+ALAMEDA COUNTY, CALIFORNIA ADMINISTRATIVE CODE:
+https://library.municode.com/ca/alameda_county/codes/administrative_code?nodeId=ALCOCAADCO
+
+# county of Alameda uses some service "The work number" for maximum cyber security
+why The Work Number? 
+The Work Number is an *automated service that protects your 
+personal information* during the verification process. This secure 
+service is used when you apply for a mortgage or loan, a job, 
+lease an apartment or any other instance where proof of 
+employment or income is needed. - ruh-roh 
+
+# more data <a href="/more-notes.txt">here is a table of surpluse properties</a>
+
+ meeting minutes 
+https://www.achhd.org/board/agendas.htm
 
 
 
-
-
-
-
+county of alameda employee handbook https://acgovt.sharepoint.com/sites/GSADigitalLibrary/PublicFacing/Forms/AllItems.aspx?id=%2Fsites%2FGSADigitalLibrary%2FPublicFacing%2FAlameda%20County%27s%20New%20Employee%20Orientation%20Handbook%2Epdf&parent=%2Fsites%2FGSADigitalLibrary%2FPublicFacing&p=true&ga=1
 
 
 
