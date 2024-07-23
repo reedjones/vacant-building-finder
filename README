@@ -19,6 +19,31 @@ https://data.oaklandca.gov/Infrastructure/Homeless-Encampment-service-requests-r
 https://data.oaklandca.gov/Infrastructure/Service-requests-received-by-the-Oakland-Call-Cent/quth-gb8e/data_preview
 https://data.oaklandca.gov/Infrastructure/Service-requests-received-by-the-Oakland-Call-Cent/quth-gb8e/explore/query/SELECT%0A%20%20%60requestid%60%2C%0A%20%20%60datetimeinit%60%2C%0A%20%20%60source%60%2C%0A%20%20%60description%60%2C%0A%20%20%60reqcategory%60%2C%0A%20%20%60reqaddress%60%2C%0A%20%20%60status%60%2C%0A%20%20%60referredto%60%2C%0A%20%20%60datetimeclosed%60%2C%0A%20%20%60srx%60%2C%0A%20%20%60sry%60%2C%0A%20%20%60councildistrict%60%2C%0A%20%20%60beat%60%2C%0A%20%20%60probaddress%60%2C%0A%20%20%60city%60%2C%0A%20%20%60state%60%2C%0A%20%20%60zipcode%60%2C%0A%20%20%60%3A%40computed_region_w23w_jfhw%60/page/filter
 
+# alameda county data sources:
+
+# good search tool https://rechart1.acgov.org/RealEstate/SearchResults.aspx
+https://rechart1.acgov.org/RealEstate/SearchEntry.aspx
+
+surplus properties - https://alamedacountyca.gov/cda/spa/
+
+
+# large resource list with contacts + info https://www.achhd.org/documents/ACHHD-Resource-List.pdf
+
+# more data <a href="/more-notes.txt">here</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 What is this?
 The Vacant and Abandoned Building Finder is a tool for helping people and organizations find buildings in Chicago that are not in use and potentially hazardous to the neighborhood around them.
