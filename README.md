@@ -26,6 +26,7 @@ https://rechart1.acgov.org/RealEstate/SearchEntry.aspx
 
 surplus properties - https://alamedacountyca.gov/cda/spa/
 
+# county buildings https://gsa.acgov.org/our-work/properties/building-directory/?query=oakland
 
 # large resource list with contacts + info https://www.achhd.org/documents/ACHHD-Resource-List.pdf
 
