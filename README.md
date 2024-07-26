@@ -1,3 +1,6 @@
+# this is just unorganized collection of notes - see project here [link]
+
+
 ## todo 
 - Modify for Oakland, Ca data 
 - - 311 requests SODA API: https://data.oaklandca.gov/resource/6mcd-dn3t.json
